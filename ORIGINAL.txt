@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>Shashank Personal site</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+    img{
+      height: 150px;
+    }
+    </style>
+  </head>
+<body>
+  <!-- <body style="background-color: #EAF6F6;"> -->
+    <table cellspacing="20">
+      <tr>
+        <td><img src="images\shank.jpeg" alt="Shashank profile picture" width="150" height="200"></td>
+      <td>
+        <h1>Shashank</h1>
+        <p><em>Founder of the website <strong>onemeet</strong></em>.</p>
+        <p>I am a full stack developer. I love to Programmming.</p>
+      </td>
+      </tr>
+    </table>
+    <hr>
+    <h3>Education</h3>
+    <ul>
+      <li>College</li>
+      <ul>
+      <li>Bapuji Institue of Engineering and Technology, Davangere</li>
+      <li>Sir M V P U College, Davangere</li>
+      </ul>
+      <li><strong>School</strong></li>
+      <ul>
+        <li>Sri Taralabalu Jagadguru P U College, Davangere </li>
+        <li>Rotary English Medium School, Ranebennur</li>
+      </ul>
+    </ul>
+    <hr>
+    <h3>Projects developed</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Dates</th>
+          <th>work</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2021-2022</td>
+          <td>Worlds Largest university</td>
+        </tr>
+        <tr>
+          <td>2022</td>
+          <td>Personel Website</td>
+        </tr>
+      </tbody>
+      </table>
+    <hr>
+    <h3>Skills</h3>
+    <table cellspacing="10">
+                    <tr>
+                        <td>JavaScript</td>
+                        <td>★★★★★</td>
+                    </tr>
+                    <tr>
+                        <td>HTML</td>
+                        <td>★★★★</td>
+                    </tr>
+                    <tr>
+                        <td>CSS</td>
+                        <td>★★★</td>
+                    </tr>
+                    <tr>
+                        <td>Node</td>
+                        <td>★★</td>
+                    </tr>
+    </table>
+    <hr>
+    <a href="hobbies.html"><h5>My Hobbies</h5></a>
+    <a href="contactdetails.html"><h5>Contact details</h5></a>
+    <hr>
+  </body>
+
+</html>
